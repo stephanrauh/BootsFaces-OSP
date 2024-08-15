@@ -31,5 +31,4 @@
 #</settings>
 
 ./gradlew clean publishToMavenLocal
-
 mvn clean install
